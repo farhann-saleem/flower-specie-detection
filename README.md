@@ -32,7 +32,3 @@ Open `predictions.ipynb` in Jupyter Notebook or VS Code and run the cells sequen
 Install requirements with:
 ```
 pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-## License
-This project is for educational purposes.
