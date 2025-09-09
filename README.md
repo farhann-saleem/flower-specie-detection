@@ -5,7 +5,6 @@ This project demonstrates how to train and use a Logistic Regression model on th
 ## Contents
 - `predictions.ipynb`: Jupyter notebook with code and explanations for data loading, exploration, model training, and prediction.
 - `Iris.csv`: The Iris dataset used for training and testing.
-
 ## Steps in the Notebook
 1. **Import Libraries**: Load all required Python libraries for data analysis and machine learning.
 2. **Load Dataset**: Read the Iris dataset from CSV.
