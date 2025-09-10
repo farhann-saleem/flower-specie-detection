@@ -1,7 +1,6 @@
 # Iris Logistic Regression Prediction
 
 This project demonstrates how to train and use a Logistic Regression model on the Iris dataset using Python and scikit-learn in a Jupyter Notebook.
-
 ## Contents
 - `predictions.ipynb`: Jupyter notebook with code and explanations for data loading, exploration, model training, and prediction.
 - `Iris.csv`: The Iris dataset used for training and testing.
