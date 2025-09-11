@@ -15,7 +15,6 @@ This project demonstrates how to train and use a Logistic Regression model on th
 8. **Model Training**: Train a Logistic Regression model.
 9. **Model Evaluation**: Predict and evaluate accuracy on the test set.
 10. **Predictions**: Make predictions on new data samples.
-
 ## Usage
 Open `predictions.ipynb` in Jupyter Notebook or VS Code and run the cells sequentially to reproduce the workflow and results.
 
